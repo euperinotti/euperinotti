@@ -1,6 +1,12 @@
-# Hi, my name is Perinotti
-I am a 19 years old boy who loves computers and started programming since 2019.
-I intend to work with back-end in the future, so I am trying to improve the skills that I have and develop some new more.
+# Hi, my name is Guilherme Perinotti
+I am a 19 years old boy who loves computers and started programming in 2019.
+
+Since I was a kid I already loved computers and everything related. So I was always interacting with them in someway, most part of the time that intereaction was related with design sotfwares and games.
+
+At the age of 15, I started studying programming at high school and started loving it. Now I'm studying software engineering in college.
+
+I intend to work with web developmente, more especifically back-end, in the future, so now I am improving the skills that I already have and developing some new more.
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark)
 
 # Coding
