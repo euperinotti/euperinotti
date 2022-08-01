@@ -7,7 +7,8 @@ At the age of 15, I started studying programming at high school and started lovi
 
 I intend to work with web developmente, more especifically back-end, in the future, so now I am improving the skills that I already have and developing some new more.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euperinotti&layout=compact&card_width=300)](https://github.com/euperinotti)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euperinotti&layout=compact&card_width=300px&theme=github_dark)](https://github.com/euperinotti)
 
 # Coding
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
