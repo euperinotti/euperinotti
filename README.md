@@ -7,7 +7,7 @@ At the age of 15, I started studying programming at high school and started lovi
 
 I intend to work with web developmente, more especifically back-end, in the future, so now I am improving the skills that I already have and developing some new more.
 
-![My GitHub stats]() 
+# Github Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark" align="center"/>
@@ -32,3 +32,5 @@ I intend to work with web developmente, more especifically back-end, in the futu
 # Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-perinotti/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xgdxal6ba8llcllcgqa4qvmzs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.perinotti/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euperinotti)
