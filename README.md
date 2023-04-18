@@ -7,8 +7,8 @@
 ## Github Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark" align="center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euperinotti&layout=compact&theme=github_dark&hide=ejs,css,html,mustache" align="center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark" align="center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=euperinotti&layout=compact&theme=github_dark&hide=ejs,css,html,mustache" align="center"/>
 </p>
 
 ## Code
