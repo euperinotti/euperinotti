@@ -1,10 +1,6 @@
-# Welcome to my profile
-
-## About me
+# About me
 
 I'm coursing software engineer in collage and coding to improve my skills. Future back end developer.
-
-## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-perinotti/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.perinotti/)
@@ -12,8 +8,7 @@ I'm coursing software engineer in collage and coding to improve my skills. Futur
 
 ## Github Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=euperinotti&show_icons=true&theme=github_dark" align="center"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&count_private=true&show_icons=true)
 <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=euperinotti&layout=compact&theme=github_dark&hide=ejs,css,html,mustache" align="center"/>
 </p> -->
 
