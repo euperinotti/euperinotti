@@ -11,7 +11,7 @@ I'm coursing software engineer in collage and coding to improve my skills. Futur
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=github_dark&show_icons=true)
 
 ## Most used languages
 
