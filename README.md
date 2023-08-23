@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-I'm coursing software engineer in collage and coding to improve my skills. Future back end developer.
+Full-Stack Developer.
 
 
 ## Social Media
