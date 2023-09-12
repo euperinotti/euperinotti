@@ -14,5 +14,5 @@ Full-Stack Developer.
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=github_dark&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=github_dark&show_icons=true&count_private=true) 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euperinotti&theme=github_dark&hide=ejs,css,html,mustache)
