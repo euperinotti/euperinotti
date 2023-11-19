@@ -34,7 +34,11 @@ I'm Guilherme Perinotti, Full-Stack Developer.
 
 Feel free to reach out to me for discussions, collaborations, or just to say hi:
 
-![[Twitter](https://twitter.com/euperinotti)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![https://www.linkedin.com/in/guilherme-perinotti/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/guilherme-perinotti/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/euperinotti">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
 
 Thanks for visiting my GitHub profile! 
