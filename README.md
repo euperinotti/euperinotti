@@ -40,5 +40,3 @@ Feel free to reach out to me for discussions, collaborations, or just to say hi:
 <a href="https://twitter.com/euperinotti">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-
-Thanks for visiting my GitHub profile! 
