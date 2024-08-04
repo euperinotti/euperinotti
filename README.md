@@ -30,11 +30,8 @@
 
 ###
 
-<div align="flex-start" width="100%" style="display: flex; align-items: flex-start; flex-direction: column; padding: 0px">
-  <!-- <img src="https://streak-stats.demolab.com?user=euperinotti&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  width="100%" height="auto"/> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=euperinotti&theme=tokyonight&column=-1&row=1&margin-w=0&margin-h=0&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" style="margin: 0px; padding: 0px" />  -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euperinotti&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" style="margin: 0px; padding: 0px" />
-</div>
+![euperinotti's Stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![euperinotti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euperinotti&theme=tokyonight&hide_border=true)
 
 ###
 
