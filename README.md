@@ -29,8 +29,6 @@
 </div>
 
 ###
-
-![euperinotti's Stats](https://github-readme-stats.vercel.app/api?username=euperinotti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![euperinotti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euperinotti&theme=tokyonight&hide_border=true)
 
 ###
