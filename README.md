@@ -16,8 +16,8 @@
 ###
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="44"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
@@ -45,5 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=3ba8db&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
 </div>
-
-###
