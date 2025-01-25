@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guilherme Perinotti and I'm a Fullstack Developer</p>
+<p align="left">My name is Guilherme Perinotti and I'm a Backend Developer</p>
 
 ###
 
